@@ -1,2 +1,2 @@
-# Coursera-Test
-Coursera Test Repository
+# Machine Learning
+Machine Learning Repository
